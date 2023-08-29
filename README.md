@@ -1,7 +1,6 @@
 <div align="center">
 <img width="80" src="https://github.com/yeni-choi/yeni-choi/assets/77966605/78eb08f3-8427-4423-a216-595fd4fac251" />
-</div>
-<br>
+
 
 <br>
 
@@ -16,6 +15,7 @@
 |03.2021 ~ | Member, KING (Game Dev Club)|
 |03.2021 ~ 05.2021 | SAMSUNG SDS Coding Campus|
 |02.2020 ~ 11.2020 | Samsung Securities Student Volunteer Group 'YAHO'|
+</div>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
