@@ -1,5 +1,5 @@
 <div align="center">
-<img width="80" src="https://github.com/yeni-choi/yeni-choi/assets/77966605/78eb08f3-8427-4423-a216-595fd4fac251" />
+<img width="90" src="https://github.com/yeni-choi/yeni-choi/assets/77966605/78eb08f3-8427-4423-a216-595fd4fac251" />
 
 
 <br>
