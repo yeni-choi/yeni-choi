@@ -12,7 +12,7 @@
 |02.2023 ~ | AWS University Student Group|
 |08.2023 ~ | CEOS (Sinchon Union IT Startup Club) |
 |08.2022 ~ 03.2023| Core Member, Google Developer Students Club Ewha|
-|08.2022 ~ | Android Part Leader & Server Part Member, UMC (App Dev Club)|
+|08.2022 ~ 08.2023| Android Part Leader & Server Part Member, UMC (App Dev Club)|
 |03.2021 ~ | Member, KING (Game Dev Club)|
 |03.2021 ~ 05.2021 | SAMSUNG SDS Coding Campus|
 |02.2020 ~ 11.2020 | Samsung Securities Student Volunteer Group 'YAHO'|
