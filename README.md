@@ -64,7 +64,8 @@
 </div>
 
 <h3 align="center"> 
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=925A1D&center=true&random=false&width=435&lines=%F0%9F%A7%B8+Contact+%F0%9F%A7%B8)](https://git.io/typing-svg)
 
 </h3>
 
