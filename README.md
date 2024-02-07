@@ -1,6 +1,8 @@
 <div align="center">
+  
+<img width="90" src="https://i.pinimg.com/originals/3e/74/57/3e74571bb11aa7c13a38076291436196.gif" />  
 <img width="90" src="https://github.com/yeni-choi/yeni-choi/assets/77966605/78eb08f3-8427-4423-a216-595fd4fac251" />
-
+<img width="90" src="https://i.pinimg.com/originals/3e/74/57/3e74571bb11aa7c13a38076291436196.gif" />  
 
 <br>
 
