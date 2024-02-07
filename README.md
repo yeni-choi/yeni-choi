@@ -18,7 +18,11 @@
 |02.2020 ~ 11.2020 | Samsung Securities Student Volunteer Group 'YAHO'|
 </div>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=000000&center=true&random=false&width=435&lines=%F0%9F%9B%A0+Tech+Stack+%F0%9F%9B%A0)](https://git.io/typing-svg)
+
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -59,7 +63,11 @@
   [![Yeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni-choi&theme=tokyonight)](https://github.com/yeni-choi/github-readme-stats)
 </div>
 
-<h3 align="center"> 🧸 Me 🧸 </h3>
+<h3 align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=925A1D&center=true&random=false&width=435&lines=%F0%9F%A7%B8+Contact+%F0%9F%A7%B8)](https://git.io/typing-svg)
+
+</h3>
 <p align="center">
   <a href="https://dev-yeni.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://dev-yeni.tistory.com/"/></a>&nbsp
   <a href="mailto:yewonchoi@ewhain.net"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
