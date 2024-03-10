@@ -11,7 +11,7 @@
 |03.2019 ~ |	BS in Computer Sciences and Engineering, Ewha Womans University	| 
 |08.2021 ~ 12.2021|	Information and Computer Sciences (Academic Exchange), University of Hawaii|
 |02.2022 ~ 08.2022|	Intern, NAVER Cloud|
-|02.2023 ~ | AWS University Student Group|
+|02.2023 ~ | AUSG (AWS University Student Group) |
 |08.2023 ~ | CEOS (Sinchon Union IT Startup Club) |
 |08.2022 ~ 03.2023| Core Member, Google Developer Students Club Ewha|
 |08.2022 ~ 08.2023| Android Part Leader & Server Part Member, UMC (App Dev Club)|
