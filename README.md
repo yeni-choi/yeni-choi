@@ -72,7 +72,6 @@
 </h3>
 
 <p align="center">
-  <a href="https://dev-yeni.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://dev-yeni.tistory.com/"/></a>&nbsp
   <a href="mailto:yewonchoi@ewhain.net"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
 </p>
 <br>
