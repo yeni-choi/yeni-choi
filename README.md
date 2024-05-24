@@ -17,7 +17,6 @@
 |08.2022 ~ 08.2023| Android Part Leader & Server Part Member, UMC (App Dev Club)|
 |03.2021 ~ | Member, KING (Game Dev Club)|
 |03.2021 ~ 05.2021 | SAMSUNG SDS Coding Campus|
-|02.2020 ~ 11.2020 | Samsung Securities Student Volunteer Group 'YAHO'|
 </div>
 
 <h3 align="center">
