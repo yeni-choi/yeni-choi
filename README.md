@@ -8,8 +8,6 @@
 
 |	Date |	Contents|	
 |--|---|
-|03.2019 ~ |	BS in Computer Sciences and Engineering, Ewha Womans University	| 
-|08.2021 ~ 12.2021|	Information and Computer Sciences (Academic Exchange), University of Hawaii|
 |02.2022 ~ 08.2022|	Intern, NAVER Cloud|
 |07.2023 ~ | AUSG (AWS University Student Group) |
 |08.2023 ~ | BackEnd, CEOS (Sinchon Union IT Startup Club) |
