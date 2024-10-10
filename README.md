@@ -46,12 +46,6 @@
   [![Yeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni-choi&theme=tokyonight)](https://github.com/yeni-choi/github-readme-stats)
 </div>
 
-<h3 align="center"> 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=925A1D&center=true&random=false&width=435&lines=%F0%9F%A7%B8+Contact+%F0%9F%A7%B8)](https://git.io/typing-svg)
-
-</h3>
-
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeni-choi&count_bg=%23FFB8F2&title_bg=%23EC9B9B&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
