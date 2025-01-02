@@ -11,7 +11,7 @@
 |02.2022 ~ 08.2022|	Intern, NAVER Cloud|
 |07.2023 ~ | AUSG (AWS University Student Group) |
 |08.2023 ~ | BackEnd, CEOS (Sinchon Union IT Startup Club) |
-|08.2022 ~ 03.2023| Core Member, Google Developer Students Club Ewha|
+|08.2022 ~ 03.2023| Core Member, Google Developer Students Club |
 |08.2022 ~ 08.2023| Android Part Leader & Server Part Member, UMC (App Dev Club)|
 |03.2021 ~ | Member, KING (Game Dev Club)|
 |03.2021 ~ 05.2021 | SAMSUNG SDS Coding Campus|
