@@ -8,13 +8,9 @@
 
 |	Date |	Contents|	
 |--|---|
-|02.2022 ~ 08.2022|	Intern, NAVER Cloud|
 |07.2023 ~ | AUSG (AWS University Student Group) |
 |08.2023 ~ | BackEnd, CEOS (Sinchon Union IT Startup Club) |
 |08.2022 ~ 03.2023| Core Member, Google Developer Students Club |
-|08.2022 ~ 08.2023| Android Part Leader & Server Part Member, UMC (App Dev Club)|
-|03.2021 ~ | Member, KING (Game Dev Club)|
-|03.2021 ~ 05.2021 | SAMSUNG SDS Coding Campus|
 </div>
 
 <h3 align="center">
@@ -45,8 +41,4 @@
 
   [![Yeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni-choi&theme=tokyonight)](https://github.com/yeni-choi/github-readme-stats)
 </div>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeni-choi&count_bg=%23FFB8F2&title_bg=%23EC9B9B&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
 
