@@ -36,9 +36,3 @@
   
 </p>
 
-
-<div align="center" style="text-align:center">
-
-  [![Yeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeni-choi&theme=tokyonight)](https://github.com/yeni-choi/github-readme-stats)
-</div>
-
